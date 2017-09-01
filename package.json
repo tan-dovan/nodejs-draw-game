@@ -6,6 +6,9 @@
     "node-static": "latest",
     "socket.io": "latest"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "engines": {
     "node": "0.10.x"
   }
