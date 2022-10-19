@@ -8,12 +8,9 @@
     "url": "https://github.com/SiryjVyiko/nodejs-draw-game.git"
   },
   "dependencies": {
-    "mime": "2.4.0",
-    "mime-types": "2.1.22",
+    "mime": "3.0.0",
+    "mime-types": "2.1.35",
     "node-static": "0.7.11",
-    "socket.io": "2.2.0"
-  },
-  "engines": {
-    "node": "0.10.x"
+    "socket.io": "4.5.3"
   }
 }
