@@ -1,16 +1,16 @@
 {
-  "name": "DrawingGame",
-  "version": "0.0.1",
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "A simple collaborative whiteboard using socket.io",
   "main": "server.js",
-  "license": "UNLICENSED",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SiryjVyiko/nodejs-draw-game.git"
-  },
+  "keywords": [
+    "socket.io",
+    "whiteboard"
+  ],
   "dependencies": {
-    "mime": "3.0.0",
-    "mime-types": "2.1.35",
-    "node-static": "0.7.11",
-    "socket.io": "2.5.0"
-  }
+    "express": "~4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "author": "Damien Arrachequesne",
+  "license": "MIT"
 }
