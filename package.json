@@ -11,9 +11,6 @@
     "express": "~4.17.1",
     "socket.io": "^4.0.0"
   },
-  "scripts": {
-    "start": "node index"
-  },
   "author": "Damien Arrachequesne",
   "license": "MIT"
 }
