@@ -2,7 +2,7 @@
   "name": "whiteboard",
   "version": "1.0.0",
   "description": "A simple collaborative whiteboard using socket.io",
-  "main": "index.js",
+  "main": "server.js",
   "keywords": [
     "socket.io",
     "whiteboard"
