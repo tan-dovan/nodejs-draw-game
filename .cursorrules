@@ -4,3 +4,7 @@
 rules:
   - Always respond in English unless the current message explicitly requests another language.
   - Prefer concise answers; expand with details only when requested.
+  - Follow Conventional Commits for commit messages (feat, fix, chore, docs, refactor, perf, test).
+  - Use 2 spaces for indentation; avoid tabs.
+  - Keep lines under 100 characters when reasonable.
+  - JavaScript style: prefer const/let over var; use semicolons; single quotes; arrow functions when appropriate; avoid trailing whitespace.
