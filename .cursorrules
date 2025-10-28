@@ -1,0 +1,6 @@
+# Workspace rules for Cursor
+# These instructions guide the AI assistant's default behavior in this repository.
+
+rules:
+  - Always respond in English unless the current message explicitly requests another language.
+  - Prefer concise answers; expand with details only when requested.
